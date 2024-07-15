@@ -1,1 +1,1 @@
-#Detector stamps on base OpenCV
+# Detector stamps on base OpenCV
